@@ -1,2 +1,3 @@
-# F_JP_QuantativeResearchTask_NaturalGas_TimeSeriesAnalysis202408
+# F_JP_QuantativeResearchTask_NaturalGas
+#_TimeSeriesAnalysis202408
 
